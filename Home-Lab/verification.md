@@ -32,7 +32,10 @@ Nmap installed:
 
 nmap --version
 
+Result: Nmap version 7.99
 
 Status:
 
-Ready for security labs
+Ready for cybersecurity labs
+
+
