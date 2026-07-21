@@ -1,3 +1,11 @@
+"""
+Day 5 Mini Project
+
+Cybersecurity Host Checker
+
+Author: Finn Tran
+"""
+
 print("===== Cybersecurity Host Checker =====")
 
 def get_host():
